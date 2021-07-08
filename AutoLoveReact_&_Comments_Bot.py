@@ -12,7 +12,7 @@ import time
 print("Please don't perform any action during executing this program...")
 print("Tool Developer Waqar Ali Abbas...")
 fb_email=input("Email Address:  ")
-fb_password=input("Email Password:  ")
+fb_password=input("Password:  ")
 option=Options()
 option.add_argument("disable-notifications")
 driver=webdriver.Chrome(options=option)
