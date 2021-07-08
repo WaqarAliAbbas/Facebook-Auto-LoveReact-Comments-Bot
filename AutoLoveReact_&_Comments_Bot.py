@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from pynput.keyboard import Key,Controller
 import time
-print("Please don't perform any action during executing this program...")
+print("Note: Please don't perform any action during executing this program...")
 print("Tool Developer Waqar Ali Abbas...")
 fb_email=input("Email Address:  ")
 fb_password=input("Password:  ")
